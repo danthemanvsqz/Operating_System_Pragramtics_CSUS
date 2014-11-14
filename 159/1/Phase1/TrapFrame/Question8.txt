@@ -1,0 +1,1 @@
+Changing the Scheduler() function algorithm will change the process order. For instance using a priority queue with a heirarchy based on some other value. Such as process age, average process time usage, etc. The Scheduler can also use a layered queue system with aging to prevent starvation.
